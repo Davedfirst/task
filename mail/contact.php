@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars($_POST['message']);
 
     // Set the recipient email address
-    $to = "pholaxi@gmail.com"; // Change this to your email address
+    $to = "google.pholaxi@gmail.com"; // Change this to your email address
 
     // Compose the email message
     $subject = "$m_subject: $name";
