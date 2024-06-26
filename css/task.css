@@ -535,6 +535,8 @@
   .header-btns {
     display: inline-flex;
     gap: var(--gutter-x-small);
+    border-radius: 10px
+      
   }
   
   @media (max-width: 400px) {
