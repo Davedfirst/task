@@ -277,7 +277,7 @@
     text-decoration: none;
     text-align: center;
     padding: 18px 60px;
-    border-radius: 10px;
+    border-radius: var(--gutter-nano);
     transition: 0.3s all ease-in-out;
     cursor: pointer;
   }
